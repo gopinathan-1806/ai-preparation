@@ -1113,4 +1113,5 @@ This sequence lets me continuously map each new Azure concept to something I alr
 
 The diagram below gives a visual comparison of the local AI/LLM setup and the Azure enterprise architecture, including the end-to-end request flow and the cross-cutting monitoring layer.
 
-![Azure AI vs Local LLM — Architecture and Flow](azure-ai-vs-local-flow-diagram.png)
+<img width="1223" height="1286" alt="azure-ai-vs-local-flow-diagram" src="https://github.com/user-attachments/assets/5e7df5ab-a834-4a7e-803c-2062498b4d5a" />
+
