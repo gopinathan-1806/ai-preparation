@@ -1048,6 +1048,11 @@ Just remember:
 
 That's the CrewAI abstraction you should have in your head before an interview.
 
+## Flow
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 24, 2026, 11_22_54 AM" src="https://github.com/user-attachments/assets/688c24b0-f5b4-4b6c-9bf2-5c148ab4b8b4" />
+
+
 ---
 
 ## Official references
