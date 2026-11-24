@@ -1115,3 +1115,31 @@ The diagram below gives a visual comparison of the local AI/LLM setup and the Az
 
 <img width="1223" height="1286" alt="azure-ai-vs-local-flow-diagram" src="https://github.com/user-attachments/assets/5e7df5ab-a834-4a7e-803c-2062498b4d5a" />
 
+## Azure AI Foundry
+
+1. Evaluation - Say example we’re using GPT-5.6 and if we want to test the model, we can pass some dataset and test it, also we can ask other LLM model to evaluate the performance of our model, another model will test like providing violence content, others to our model and evaluates and finally provides the score.
+
+## Fine Turing the models
+
+<img width="1536" height="1024" alt="Fine- Tuning an Al Customer Care Model in Azure Al Foundry" src="https://github.com/user-attachments/assets/7405c61a-2686-4320-be45-6e391329b2f2" />
+
+## Azure AI services
+
+<img width="1248" height="699" alt="Azure Al Services" src="https://github.com/user-attachments/assets/ca64b682-44f6-4ec8-a183-ee1c08b035fd" />
+
+## AI Language
+
+It offers multiple services
+
+1. Hindi —> Tamil model
+2. Sentimental analysis —> If user is providing feedback, this model analysis the mood of the review and provides rating based on the text review
+3. Personal Data —> If you give the mobile number, name, email in plain text, this model converts everything into proper datasets
+
+Speech to text
+
+<img width="783" height="442" alt="Transcribing Audio from Azure Blob Storage" src="https://github.com/user-attachments/assets/a041f18f-a2ea-4e8d-839f-53e95c893e4e" />
+
+
+Available models
+
+<img width="908" height="517" alt="!!!!!!!!" src="https://github.com/user-attachments/assets/1883e45c-e49b-4ad4-9a7f-8bc43804190b" />
